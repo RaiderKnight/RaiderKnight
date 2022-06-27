@@ -3,6 +3,7 @@
 
 <p style="text-align:center;">
   <a href="https://raiderknight.com/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/> Personal Website</a> •
+  <a href="https://lifeplay.site/"><img src="https://img.icons8.com/metro/16/000000/chat.png"/> Forums Raider Knight</a> •
   <a href="https://www.buymeacoffee.com/raiderknight"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/16/000000/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo.png"/> BuyMeaCoffee</a> •
   <a href="https://discord.gg/d3U9E2wb4Y"><img src="https://img.icons8.com/color/16/000000/discord--v2.png"/> Discord</a> •
   <a href="https://www.patreon.com/raiderknight"><img src="https://img.icons8.com/fluency/16/000000/patreon.png"/> Patreon</a> •
