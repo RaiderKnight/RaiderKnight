@@ -3,7 +3,8 @@
 
 <p>I'm currently working on Software, Website, Extension, Game Dev, and Content Creation.</p>
 <br>
-<p align="center"><a href="https://github.com/RaiderKnight"><img src="https://github-readme-stats.vercel.app/api?username=RaiderKnight&hide_border=true&show_icons=true" alt="RaiderKnight's github stats"></a><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiderKnight&layout=compact&langs_count=10"/></p>
+<p align="center"><a href="https://github.com/RaiderKnight"><img src="https://github-readme-stats.vercel.app/api?username=RaiderKnight&hide_border=true&show_icons=true" alt="RaiderKnight's github stats"></a></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiderKnight&layout=compact&langs_count=10"/></p>
 
 <br>
 
