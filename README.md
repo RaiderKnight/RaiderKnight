@@ -20,5 +20,3 @@
   <a href="https://www.buymeacoffee.com/raiderknight" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://github.com/RaiderKnight/RaiderKnight/blob/main/support-buy-coffee.png"/></a>
 </p>
-
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=RaiderKnight.RaiderKnight" alt="visitor badge"/></p>
