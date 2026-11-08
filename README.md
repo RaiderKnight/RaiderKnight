@@ -3,13 +3,13 @@
 
 <p>I'm currently working on Software, Website, Extension, Game Dev, and Content Creation.</p>
 <br>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RaiderKnight&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=RaiderKnight&show_icons=true&include_all_commits=true&theme=light_github)
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=RaiderKnight&show_icons=true&include_all_commits=true&theme=light_github"></p>
 <br>
 <p>I enjoy experimenting with a variety of programming languages, including: C#, C++, CSS, HTML, JavaScript, jQuery, Perl, PHP, Python, Ruby, Symfony, UE4/5, Zen....</p>
 
 <br>
-
-<p align="center"><a href="https://raiderknight.com/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/> Personal Website</a> •
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=RaiderKnight&layout=compact&langs_count=8&theme=graywhite"><br>
+<a href="https://raiderknight.com/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/> Personal Website</a> •
 <a href="https://forums.raiderknight.com/"><img src="https://img.icons8.com/metro/16/000000/chat.png"/> Forums Raider Knight</a> •
 <a href="https://discord.gg/d3U9E2wb4Y"><img src="https://img.icons8.com/color/16/000000/discord--v2.png"/> Discord</a></p>
 
