@@ -3,6 +3,8 @@
 
 <p>I'm currently working on Software, Website, Extension, Game Dev, and Content Creation.</p>
 <br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RaiderKnight&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=RaiderKnight&show_icons=true&include_all_commits=true&theme=light_github)
+<br>
 <p>I enjoy experimenting with a variety of programming languages, including: C#, C++, CSS, HTML, JavaScript, jQuery, Perl, PHP, Python, Ruby, Symfony, UE4/5, Zen....</p>
 
 <br>
